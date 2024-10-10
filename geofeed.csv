@@ -5,8 +5,8 @@
 # MEGNET IP space, and the data included in this feed may be used only
 # for improving the accuracy of Geo:IP lookups
 
-103.173.9.0/24,IN,IN-TN,Pollachi,642002
-103.208.154.0/24,IN,IN-TN,Pollachi,642002
-2401:c8e0::/36,IN,IN-TN,Pollachi,642002
-2401:c8e0:1000::/36,IN,IN-TN,Pollachi,642002
-2401:c8e0:fade::/48,IN,IN-TN,Pollachi,642002
+103.173.9.0/24,IN,IN-TN,Pollachi,
+103.208.154.0/24,IN,IN-TN,Pollachi,
+2401:c8e0::/36,IN,IN-TN,Pollachi,
+2401:c8e0:1000::/36,IN,IN-TN,Pollachi,
+2401:c8e0:fade::/48,IN,IN-TN,Pollachi,
